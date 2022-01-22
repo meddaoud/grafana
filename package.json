@@ -2,7 +2,7 @@
   "author": "Mohamed Daoud",
   "license": "AGPL-3.0-only",
   "private": true,
-  "name": "grafana",
+  "name": "medcloud",
   "version": "8.4.0-pre",
   "repository": "github:meddaoud/grafana",
   "scripts": {
